@@ -4,10 +4,9 @@ async function createAnimal(animal) {
   return await AnimalRepository.insertAnimal(animal);
 }
 
-async function getAnimals(productId) {
-
-  if(productId){
-    return await AnimalRepository.getAnimalsByProprietarioId(productId);  
+async function getAnimals(proprietarioId) {
+  if (proprietarioId) {
+    return await AnimalRepository.getAnimalsByProprietarioId(proprietarioId);
   }
   return await AnimalRepository.getAnimals();
 }
@@ -17,20 +16,16 @@ async function getAnimal(id) {
 }
 
 async function deleteAnimal(id) {
-    await AnimalRepository.deleteAnimal(id);
-  }
+  await AnimalRepository.deleteAnimal(id);
+}
 
+async function updateAnimal(animal) {
+  await AnimalRepository.updateAnimal(animal);
+}
 
-  async function updateAnimal(animal) {
-    await AnimalRepository.updateAnimal(animal);
-  }
-
-
-  async function findByProprietarioId(id) {
-    return await AnimalRepository.findByProprietarioId(id);
-  }
-  
-
+async function findByProprietarioId(id) {
+  return await AnimalRepository.findByProprietarioId(id);
+}
 
 export default {
   createAnimal,
@@ -38,7 +33,5 @@ export default {
   getAnimal,
   deleteAnimal,
   updateAnimal,
-  findByProprietarioId
- 
-
+  findByProprietarioId,
 };

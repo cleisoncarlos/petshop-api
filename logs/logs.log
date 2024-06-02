@@ -1,0 +1,289 @@
+2024-06-02T00:30:53.647Z [petshop-api] info: API Started!
+2024-06-02T00:30:53.880Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:30:56.324Z [petshop-api] error: Erro: POST undefined - Unexpected token '}', ..."imalId": 
+}" is not valid JSON
+2024-06-02T00:31:10.736Z [petshop-api] info: GET /animal
+2024-06-02T00:31:17.824Z [petshop-api] error: Erro: POST undefined - ServicoService.createServico is not a function
+2024-06-02T00:33:36.668Z [petshop-api] info: API Started!
+2024-06-02T00:33:36.842Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:33:41.049Z [petshop-api] info: POST / servico - undefined
+2024-06-02T00:33:57.997Z [petshop-api] info: GET /servico
+2024-06-02T00:34:13.158Z [petshop-api] info: POST / servico - undefined
+2024-06-02T00:34:25.197Z [petshop-api] info: GET /servico
+2024-06-02T00:35:32.072Z [petshop-api] info: API Started!
+2024-06-02T00:35:32.240Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:37:10.884Z [petshop-api] info: API Started!
+2024-06-02T00:37:11.124Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:37:23.756Z [petshop-api] error: Erro: GET undefined - animais is not associated to servicos!
+2024-06-02T00:38:07.901Z [petshop-api] info: API Started!
+2024-06-02T00:38:08.357Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:38:09.367Z [petshop-api] error: Erro: GET undefined - animais is not associated to servicos!
+2024-06-02T00:38:24.081Z [petshop-api] info: API Started!
+2024-06-02T00:38:24.235Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:38:26.033Z [petshop-api] error: Erro: GET undefined - animais is not associated to servicos!
+2024-06-02T00:40:04.311Z [petshop-api] info: API Started!
+2024-06-02T00:40:04.498Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:40:05.834Z [petshop-api] info: GET /servico
+2024-06-02T00:40:51.402Z [petshop-api] info: GET /servico
+2024-06-02T00:41:11.191Z [petshop-api] info: GET /servico
+2024-06-02T00:42:15.507Z [petshop-api] info: GET /animal
+2024-06-02T00:42:24.708Z [petshop-api] info: GET /animal
+2024-06-02T00:49:25.359Z [petshop-api] info: API Started!
+2024-06-02T00:49:25.547Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:49:31.257Z [petshop-api] info: API Started!
+2024-06-02T00:49:31.530Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:50:39.714Z [petshop-api] info: API Started!
+2024-06-02T00:50:39.930Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:51:09.825Z [petshop-api] info: API Started!
+2024-06-02T00:51:10.038Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:53:50.263Z [petshop-api] info: API Started!
+2024-06-02T00:53:50.480Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:53:54.488Z [petshop-api] info: GET /animal
+2024-06-02T00:54:11.069Z [petshop-api] info: GET /animal
+2024-06-02T00:54:35.628Z [petshop-api] info: API Started!
+2024-06-02T00:54:35.847Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:54:50.648Z [petshop-api] info: API Started!
+2024-06-02T00:54:50.829Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:54:51.222Z [petshop-api] error: Erro: GET undefined - proprietarioId is not defined
+2024-06-02T00:58:38.524Z [petshop-api] info: API Started!
+2024-06-02T00:58:38.754Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:58:51.259Z [petshop-api] info: API Started!
+2024-06-02T00:58:51.464Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T00:58:58.846Z [petshop-api] info: GET /animal
+2024-06-02T00:59:52.870Z [petshop-api] info: GET /animal
+2024-06-02T01:00:01.838Z [petshop-api] info: GET /animal
+2024-06-02T01:00:51.354Z [petshop-api] info: API Started!
+2024-06-02T01:00:51.533Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:00:54.128Z [petshop-api] info: GET /animal
+2024-06-02T01:00:58.780Z [petshop-api] info: GET /animal
+2024-06-02T01:03:34.749Z [petshop-api] info: GET /servico
+2024-06-02T01:03:48.904Z [petshop-api] info: GET /servico
+2024-06-02T01:04:44.779Z [petshop-api] info: API Started!
+2024-06-02T01:04:45.045Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:09:33.662Z [petshop-api] info: API Started!
+2024-06-02T01:09:34.034Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:10:00.566Z [petshop-api] info: API Started!
+2024-06-02T01:10:00.878Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:10:12.139Z [petshop-api] info: API Started!
+2024-06-02T01:10:12.375Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:10:19.174Z [petshop-api] info: GET /servico
+2024-06-02T01:10:21.223Z [petshop-api] info: GET /servico
+2024-06-02T01:10:22.468Z [petshop-api] info: GET /servico
+2024-06-02T01:10:41.181Z [petshop-api] info: API Started!
+2024-06-02T01:10:41.339Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:11:25.706Z [petshop-api] info: API Started!
+2024-06-02T01:11:25.941Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:11:42.035Z [petshop-api] info: GET /animal
+2024-06-02T01:11:55.954Z [petshop-api] info: GET /servico
+2024-06-02T01:12:24.168Z [petshop-api] info: API Started!
+2024-06-02T01:12:24.405Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:12:31.815Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:14:11.875Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:15:47.948Z [petshop-api] info: GET /proprietario
+2024-06-02T01:15:56.028Z [petshop-api] info: GET /servico
+2024-06-02T01:18:25.623Z [petshop-api] info: API Started!
+2024-06-02T01:18:25.953Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:18:48.762Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:19:01.273Z [petshop-api] info: GET /servico
+2024-06-02T01:19:59.215Z [petshop-api] info: API Started!
+2024-06-02T01:19:59.475Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:21:34.304Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:21:36.112Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:22:27.113Z [petshop-api] info: API Started!
+2024-06-02T01:22:27.349Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:22:36.816Z [petshop-api] info: API Started!
+2024-06-02T01:22:36.995Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:22:40.960Z [petshop-api] error: Erro: GET undefined - ProprietarioRepository.getServiceByProprietarioId is not a function
+2024-06-02T01:23:22.999Z [petshop-api] info: API Started!
+2024-06-02T01:23:23.281Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:23:44.971Z [petshop-api] info: API Started!
+2024-06-02T01:23:45.198Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:23:51.031Z [petshop-api] error: Erro: GET undefined - req is not defined
+2024-06-02T01:24:02.369Z [petshop-api] info: API Started!
+2024-06-02T01:24:02.779Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:27:25.373Z [petshop-api] info: API Started!
+2024-06-02T01:27:25.534Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:27:36.488Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:27:40.240Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:29:01.863Z [petshop-api] info: API Started!
+2024-06-02T01:29:02.130Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:29:03.692Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:29:58.979Z [petshop-api] info: API Started!
+2024-06-02T01:29:59.173Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:30:04.485Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:31:49.901Z [petshop-api] info: API Started!
+2024-06-02T01:31:50.078Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:32:38.041Z [petshop-api] info: GET /servico
+2024-06-02T01:33:36.223Z [petshop-api] info: API Started!
+2024-06-02T01:33:36.421Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:33:36.490Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:33:45.774Z [petshop-api] info: API Started!
+2024-06-02T01:33:45.962Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:36:32.191Z [petshop-api] info: GET /animal
+2024-06-02T01:36:39.772Z [petshop-api] info: GET /servico
+2024-06-02T01:37:24.183Z [petshop-api] info: API Started!
+2024-06-02T01:37:24.448Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:37:30.570Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:37:51.100Z [petshop-api] info: API Started!
+2024-06-02T01:37:51.269Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:37:51.297Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:37:55.488Z [petshop-api] info: API Started!
+2024-06-02T01:37:55.697Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:37:58.992Z [petshop-api] info: API Started!
+2024-06-02T01:37:59.160Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:38:30.186Z [petshop-api] info: API Started!
+2024-06-02T01:38:30.501Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:38:43.352Z [petshop-api] info: API Started!
+2024-06-02T01:38:43.607Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:38:45.734Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:38:47.070Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:38:52.267Z [petshop-api] info: API Started!
+2024-06-02T01:38:52.465Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:38:52.514Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T01:40:10.225Z [petshop-api] info: GET /animal
+2024-06-02T01:40:19.114Z [petshop-api] info: GET /animal
+2024-06-02T01:42:54.967Z [petshop-api] info: API Started!
+2024-06-02T01:42:55.175Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:43:20.072Z [petshop-api] info: API Started!
+2024-06-02T01:43:20.345Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:43:27.384Z [petshop-api] info: GET /servico
+2024-06-02T01:43:33.569Z [petshop-api] info: GET /servico
+2024-06-02T01:43:36.470Z [petshop-api] info: GET /servico
+2024-06-02T01:44:28.738Z [petshop-api] info: API Started!
+2024-06-02T01:44:28.929Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:44:30.593Z [petshop-api] error: Erro: GET undefined - Include unexpected. Element has to be either a Model, an Association or an object.
+2024-06-02T01:44:38.843Z [petshop-api] info: API Started!
+2024-06-02T01:44:39.316Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:44:42.315Z [petshop-api] info: GET /servico
+2024-06-02T01:44:46.014Z [petshop-api] info: GET /servico
+2024-06-02T01:44:52.215Z [petshop-api] info: GET /servico
+2024-06-02T01:44:58.344Z [petshop-api] info: GET /servico
+2024-06-02T01:46:43.319Z [petshop-api] info: API Started!
+2024-06-02T01:46:43.598Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:46:45.216Z [petshop-api] info: GET /servico
+2024-06-02T01:46:48.936Z [petshop-api] info: GET /servico
+2024-06-02T01:46:52.152Z [petshop-api] info: GET /servico
+2024-06-02T01:47:42.585Z [petshop-api] info: API Started!
+2024-06-02T01:47:42.906Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T01:47:43.362Z [petshop-api] info: GET /servico
+2024-06-02T18:30:09.568Z [petshop-api] info: API Started!
+2024-06-02T18:30:09.818Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T18:30:26.824Z [petshop-api] info: GET /servico
+2024-06-02T18:31:28.268Z [petshop-api] info: GET /servico
+2024-06-02T18:32:08.639Z [petshop-api] info: DELETE /servico
+2024-06-02T18:32:12.389Z [petshop-api] info: GET /servico
+2024-06-02T18:32:18.012Z [petshop-api] info: DELETE /servico
+2024-06-02T18:32:21.053Z [petshop-api] info: GET /servico
+2024-06-02T18:34:58.668Z [petshop-api] info: GET /animal
+2024-06-02T18:35:09.171Z [petshop-api] info: GET /proprietario
+2024-06-02T18:35:17.582Z [petshop-api] info: GET /servico
+2024-06-02T18:35:22.006Z [petshop-api] info: GET /servico
+2024-06-02T18:36:38.624Z [petshop-api] error: Erro: POST undefined - Expected property name or '}' in JSON at position 4
+2024-06-02T18:38:05.872Z [petshop-api] info: POST / servico - undefined
+2024-06-02T18:38:27.242Z [petshop-api] info: GET /servico
+2024-06-02T18:38:46.997Z [petshop-api] info: GET /servico
+2024-06-02T18:39:10.130Z [petshop-api] info: GET /servico
+2024-06-02T18:40:49.171Z [petshop-api] info: API Started!
+2024-06-02T18:40:49.411Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T18:40:51.107Z [petshop-api] info: GET /servico
+2024-06-02T18:40:52.261Z [petshop-api] info: GET /servico
+2024-06-02T18:41:07.136Z [petshop-api] info: API Started!
+2024-06-02T18:41:07.308Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T18:41:29.001Z [petshop-api] info: API Started!
+2024-06-02T18:41:29.175Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T18:41:29.896Z [petshop-api] error: Erro: GET undefined - proprietarios is not associated to servicos!
+2024-06-02T18:41:43.133Z [petshop-api] info: API Started!
+2024-06-02T18:41:43.315Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T18:41:43.646Z [petshop-api] info: GET /servico
+2024-06-02T18:41:58.349Z [petshop-api] info: GET /proprietario
+2024-06-02T18:42:06.894Z [petshop-api] info: GET /animal
+2024-06-02T18:42:31.113Z [petshop-api] info: GET /servico
+2024-06-02T18:42:37.409Z [petshop-api] info: GET /animal
+2024-06-02T18:42:44.899Z [petshop-api] info: GET /proprietario
+2024-06-02T18:44:06.355Z [petshop-api] info: GET /proprietario
+2024-06-02T18:44:35.663Z [petshop-api] info: GET /servico
+2024-06-02T18:45:21.859Z [petshop-api] info: GET /proprietario
+2024-06-02T18:45:28.939Z [petshop-api] error: Erro: DELETE undefined - Não é possível excluir o proprietário porque existem animais associados a ele.
+2024-06-02T18:45:41.523Z [petshop-api] info: GET /animal
+2024-06-02T18:46:23.953Z [petshop-api] info: GET /servico
+2024-06-02T18:46:33.594Z [petshop-api] info: GET /animal
+2024-06-02T18:47:52.710Z [petshop-api] info: DELETE /animal
+2024-06-02T18:50:57.792Z [petshop-api] info: API Started!
+2024-06-02T18:50:58.117Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T18:53:19.336Z [petshop-api] info: DELETE /animal
+2024-06-02T18:53:46.332Z [petshop-api] info: API Started!
+2024-06-02T18:53:46.518Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T18:53:46.903Z [petshop-api] info: GET /animal
+2024-06-02T18:56:12.024Z [petshop-api] info: API Started!
+2024-06-02T18:56:12.213Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T18:56:21.166Z [petshop-api] info: GET /proprietario
+2024-06-02T18:56:36.892Z [petshop-api] error: Erro: DELETE undefined - Não é possível excluir o proprietário porque existem animais associados a ele.
+2024-06-02T18:56:51.441Z [petshop-api] info: DELETE /animal
+2024-06-02T18:59:14.027Z [petshop-api] info: API Started!
+2024-06-02T18:59:14.324Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T18:59:17.978Z [petshop-api] info: DELETE /animal
+2024-06-02T18:59:26.177Z [petshop-api] info: API Started!
+2024-06-02T18:59:26.574Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T18:59:33.237Z [petshop-api] info: DELETE /animal
+2024-06-02T19:00:50.793Z [petshop-api] info: API Started!
+2024-06-02T19:00:50.990Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T19:00:51.389Z [petshop-api] info: GET /servico
+2024-06-02T19:01:23.208Z [petshop-api] error: Erro: DELETE undefined - req.res is not a function
+2024-06-02T19:01:52.735Z [petshop-api] info: API Started!
+2024-06-02T19:01:52.947Z [petshop-api] info: Connection has been established on database petshop-xp-educacao successfully.
+2024-06-02T19:01:54.969Z [petshop-api] info: DELETE /servico
+2024-06-02T19:01:59.203Z [petshop-api] info: DELETE /servico
+2024-06-02T19:02:02.017Z [petshop-api] info: DELETE /servico
+2024-06-02T19:02:04.682Z [petshop-api] info: DELETE /servico
+2024-06-02T19:02:07.231Z [petshop-api] info: DELETE /servico
+2024-06-02T19:02:10.363Z [petshop-api] info: DELETE /servico
+2024-06-02T19:02:12.770Z [petshop-api] info: DELETE /servico
+2024-06-02T19:02:15.464Z [petshop-api] info: DELETE /servico
+2024-06-02T19:02:18.180Z [petshop-api] info: GET /servico
+2024-06-02T19:02:25.296Z [petshop-api] info: DELETE /servico
+2024-06-02T19:02:28.253Z [petshop-api] info: DELETE /servico
+2024-06-02T19:02:30.934Z [petshop-api] info: GET /servico
+2024-06-02T19:02:35.888Z [petshop-api] info: GET /animal
+2024-06-02T19:02:49.407Z [petshop-api] info: DELETE /animal
+2024-06-02T19:02:52.130Z [petshop-api] info: DELETE /animal
+2024-06-02T19:02:54.919Z [petshop-api] info: DELETE /animal
+2024-06-02T19:02:57.421Z [petshop-api] info: DELETE /animal
+2024-06-02T19:03:00.852Z [petshop-api] info: DELETE /animal
+2024-06-02T19:03:03.298Z [petshop-api] info: DELETE /animal
+2024-06-02T19:03:06.020Z [petshop-api] info: DELETE /animal
+2024-06-02T19:03:08.403Z [petshop-api] info: DELETE /animal
+2024-06-02T19:03:10.624Z [petshop-api] info: DELETE /animal
+2024-06-02T19:03:15.248Z [petshop-api] info: GET /animal
+2024-06-02T19:03:19.221Z [petshop-api] info: GET /proprietario
+2024-06-02T19:03:27.381Z [petshop-api] info: DELETE /proprietario
+2024-06-02T19:03:30.594Z [petshop-api] info: DELETE /proprietario
+2024-06-02T19:03:33.084Z [petshop-api] info: DELETE /proprietario
+2024-06-02T19:03:35.817Z [petshop-api] info: DELETE /proprietario
+2024-06-02T19:03:38.073Z [petshop-api] info: DELETE /proprietario
+2024-06-02T19:03:40.316Z [petshop-api] info: DELETE /proprietario
+2024-06-02T19:03:43.058Z [petshop-api] info: DELETE /proprietario
+2024-06-02T19:03:48.163Z [petshop-api] info: GET /proprietario
+2024-06-02T19:05:16.706Z [petshop-api] info: GET /proprietario
+2024-06-02T19:08:08.087Z [petshop-api] info: GET /proprietario
+2024-06-02T19:17:16.712Z [petshop-api] info: GET /animal
+2024-06-02T19:17:31.482Z [petshop-api] info: API Started!
+2024-06-02T19:17:31.935Z [petshop-api] info: Connection has been established on database petshop successfully.
+2024-06-02T19:17:34.395Z [petshop-api] info: GET /animal
+2024-06-02T19:19:48.978Z [petshop-api] info: GET /servico
+2024-06-02T19:20:10.105Z [petshop-api] info: GET /servico
+2024-06-02T19:20:36.520Z [petshop-api] info: POST / servico - undefined
+2024-06-02T19:20:55.101Z [petshop-api] info: GET /servico
+2024-06-02T19:21:07.157Z [petshop-api] info: GET /servico
+2024-06-02T19:21:32.534Z [petshop-api] info: GET /servico
+2024-06-02T19:21:51.372Z [petshop-api] info: GET /animal
+2024-06-02T19:23:33.428Z [petshop-api] info: GET /servico
+2024-06-02T19:24:56.252Z [petshop-api] info: API Started!
+2024-06-02T19:24:56.494Z [petshop-api] info: Connection has been established on database petshop successfully.
+2024-06-02T19:25:08.382Z [petshop-api] info: API Started!
+2024-06-02T19:25:08.630Z [petshop-api] info: Connection has been established on database petshop successfully.
+2024-06-02T19:25:10.020Z [petshop-api] info: GET /servico
+2024-06-02T19:25:18.201Z [petshop-api] info: API Started!
+2024-06-02T19:25:18.422Z [petshop-api] info: Connection has been established on database petshop successfully.
+2024-06-02T19:25:18.433Z [petshop-api] info: GET /servico
+2024-06-02T19:26:04.873Z [petshop-api] info: GET /servico
+2024-06-02T19:26:20.365Z [petshop-api] info: GET /servico
